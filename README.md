@@ -1,10 +1,6 @@
 # Hi 👋, I'm Petros
 A passionate developer from Cyprus, currently living in Germany!
 
-> *"Cycling fuels my creativity—fresh air and exercise inspire my next coding idea!"*
-
-<!-- Profile views badge (optional) -->
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=PetrosXenofontos)
 
 ## About Me
 - 🌱 I’m currently working on developing an air-quality sensor** project for real-time environmental data.
