@@ -36,4 +36,4 @@ A passionate developer from Cyprus, currently living in Germany!
 </p> </p>
 
 ## Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/petros-xenofontos)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/petros-xenofontos-720824198/)
