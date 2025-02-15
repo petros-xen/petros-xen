@@ -35,12 +35,5 @@ A passionate developer from Cyprus, currently living in Germany!
   </a>
 </p> </p>
 
-## GitHub Stats
-<!-- Example GitHub Stats Card (you can adjust the username) -->
-[![Petros' GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- Example Top Languages Card (you can adjust the username) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Connect with Me
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/](https://www.linkedin.com/in/petros-xenofontos))
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/petros-xenofontos))
