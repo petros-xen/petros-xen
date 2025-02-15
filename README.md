@@ -6,7 +6,7 @@ A passionate developer from Cyprus, currently living in Germany!
 - 🌱 I’m currently working on developing an air-quality sensor** project for real-time environmental data.
 - 👨‍💻 I’m studying **Computer Engineering** at Duisburg University.
 - ⚙️ I’m actively exploring **React**, **Node.js**, **Python**, **C++** and more.
-- 🚴 **Cycling** is my biggest passion!
+- 🚴 **Cycling** is my biggest passion!c
 - 📸 I also love **Photography** in my spare time.
 
 ## Languages & Tools
@@ -36,4 +36,4 @@ A passionate developer from Cyprus, currently living in Germany!
 </p> </p>
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/petros-xenofontos-720824198/))
+<a href="https://linkedin.com/in/petros-xenofontos-720824198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petros-xenofontos-720824198" height="30" width="40" /></a>
