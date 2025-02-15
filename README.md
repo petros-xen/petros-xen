@@ -1,4 +1,4 @@
-![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667](https://github.com/user-attachments/assets/b61cc935-fe4d-48e0-b75e-8ffed41a52df)![python-original](https://github.com/user-attachments/assets/edb8d8ab-1a38-4420-b390-70810ac2cfa6)![nodejs-original-wordmark](https://github.com/user-attachments/assets/bc1abfdb-2cbc-489f-8757-aab0fece743e)![html5-original-wordmark](https://github.com/user-attachments/assets/73b8f92a-7f6b-45db-8b08-09b1b6357d33)![cplusplus-original](https://github.com/user-attachments/assets/c4e2b4ef-e066-4283-88c4-7ee4e8e2667c)![c-original](https://github.com/user-attachments/assets/345503b9-25b8-4af7-9c4f-b7bbbc7ce4f8)# Hi 👋, I'm Petros
+# Hi 👋, I'm Petros
 A passionate developer from Cyprus, currently living in Germany!
 
 
