@@ -5,7 +5,7 @@ A passionate developer from Cyprus, currently living in Germany!
 ## About Me
 - 🌱 I’m currently working on developing an **air-quality sensor** project for real-time environmental data.
 - 👨‍💻 I’m studying **Computer Engineering** at Duisburg University.
-- ⚙️ I’m actively exploring **React**, **Node.js**, **Python**, **C++** and more.
+- ⚙️ I’m actively exploring **Node.js**, **Python**, **C++** and more.
 - 🚴 **Cycling** is my biggest passion!
 - 📸 I also love **Photography** in my spare time.
 
