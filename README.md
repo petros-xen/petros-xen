@@ -36,4 +36,4 @@ A passionate developer from Cyprus, currently living in Germany!
 </p> </p>
 
 ## Connect with Me
-<a href="https://linkedin.com/in/petros-xenofontos-720824198" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petros-xenofontos-720824198" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/petros-xenofontos-720824198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petros-xenofontos-720824198" height="30" width="40" /></a>
